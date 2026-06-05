@@ -1,4 +1,4 @@
-name: Demostracion de un pipeline de GithubActions
+name: Saludando
 
 on:
   push:
